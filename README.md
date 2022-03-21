@@ -1,7 +1,7 @@
 # J124
 Intro to Data Journalism Markdown practice resume
 # Priya Vijayakumar
-## I'm a mechanical engineering, aspiring journalist, and avid stress baker.
+## I'm a mechanical engineer, aspiring journalist, and avid stress baker.
 ![IMG_6002](https://user-images.githubusercontent.com/87747630/126441525-96c552cb-9369-4b0c-b1ee-504b2c8df635.jpg)
 ## Skills
 1. Scientific Research
